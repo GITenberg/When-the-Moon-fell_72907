@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '31333'
     url: http://www.gutenberg.org/2009/agents/31333
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+covers:
+- cover_type: archival
+  image_path: 72907-h/images/cover.jpg
 creator:
   author:
     agent_name: Colladay, Morrison
     gutenberg_agent_id: '56857'
     url: http://www.gutenberg.org/2009/agents/56857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72907#When-the-Moon-fell
 gutenberg_issued: '2024-02-08'
 gutenberg_type: Text
 identifiers:
